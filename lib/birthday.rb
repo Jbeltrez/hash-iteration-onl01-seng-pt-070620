@@ -10,4 +10,4 @@ def happy_birthday(birthday_kids)
     end # add your code snippet here!
 end
 
-def age_appropriate_birthday
+def age_appropriate_birthday(birthday_kids)
